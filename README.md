@@ -9,7 +9,7 @@ I am pleased to inform you that the name of this repository has been changed fro
 There are so many things coming! Stay tuned!!
 
 
-Panshak
+
 ----
 
   * [Introduction](#introduction)
@@ -170,10 +170,10 @@ to keep improving the project.
 
 ## Author
 
-- Twitter: [@panshak_](https://twitter.com/panshak_)
-- Github: [@panshak](https://github.com/panshak)
-- Linkedin: [@panshak](https://www.linkedin.com/in/panshak/)
-- Email: [@ipanshak](mailto:ipanshak@gmail.com)
+
+- Github: https://github.com/3008aryansingh
+- Linkedin: https://www.linkedin.com/in/aryan-anil-kumar-singh-467176200/
+- Email: collegearyan3008@gmail.com
 
 ## License
 
